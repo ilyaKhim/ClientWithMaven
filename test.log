@@ -44,3 +44,27 @@
 2019-07-02T14:00:37,441 [INFO ] (ClientHandler.java:103) - nick3 прислал сообщение as
 2019-07-02T14:00:45,281 [INFO ] (ClientHandler.java:128) - nick3 отключился.
 2019-07-02T14:00:47,559 [INFO ] (ClientHandler.java:128) - nick2 отключился.
+2019-07-07T21:39:51,292 [INFO ] (MainServer.java:32) - Сервер запущен
+2019-07-07T21:40:34,900 [INFO ] (ClientHandler.java:49) - nick1 подключился
+2019-07-07T21:40:41,568 [INFO ] (ClientHandler.java:49) - nick2 подключился
+2019-07-07T21:40:47,820 [INFO ] (ClientHandler.java:49) - nick3 подключился
+2019-07-07T21:40:51,789 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение sad
+2019-07-07T21:40:54,546 [INFO ] (ClientHandler.java:103) - nick2 прислал сообщение sad
+2019-07-07T21:41:01,857 [INFO ] (ClientHandler.java:128) - nick1 отключился.
+2019-07-12T11:28:51,171 [INFO ] (MainServer.java:32) - Сервер запущен
+2019-07-12T11:29:04,412 [INFO ] (ClientHandler.java:49) - nick1 подключился
+2019-07-12T11:29:05,841 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение sd
+2019-07-12T11:29:06,545 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение sad
+2019-07-12T11:29:06,846 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение sad
+2019-07-12T11:29:07,128 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение dsa
+2019-07-12T11:29:07,753 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение s
+2019-07-12T11:29:34,049 [WARN ] (ClientHandler.java:57) - Попытка входа login2. Пользователь уже в системе.
+2019-07-12T11:29:37,637 [WARN ] (ClientHandler.java:57) - Попытка входа login3. Пользователь уже в системе.
+2019-07-12T11:30:27,302 [INFO ] (MainServer.java:32) - Сервер запущен
+2019-07-12T11:30:37,806 [INFO ] (ClientHandler.java:49) - nick1 подключился
+2019-07-12T11:30:42,613 [INFO ] (ClientHandler.java:49) - nick2 подключился
+2019-07-12T11:30:43,877 [INFO ] (ClientHandler.java:103) - nick2 прислал сообщение sad
+2019-07-12T11:30:44,393 [INFO ] (ClientHandler.java:103) - nick2 прислал сообщение dsa
+2019-07-12T11:30:46,262 [INFO ] (ClientHandler.java:103) - nick1 прислал сообщение das
+2019-07-12T11:30:47,700 [INFO ] (ClientHandler.java:128) - nick1 отключился.
+2019-07-12T11:30:50,285 [INFO ] (ClientHandler.java:128) - nick2 отключился.
